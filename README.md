@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DILLONTSHAW
 🚀 Data Analyst | Business Intelligence | AI Enthusiast, Backend Engineer(JAVA)
 
-I’m a data analyst with over 4 years of experience in data analytics, reporting, and process optimization. Skilled in SQL, Access, Power Query, Power BI, Excel, and Java, I focus on transforming raw data into meaningful insights to drive informed business decisions. I have a strong foundation in data cleaning, report creation, and project management, and I’m passionate about enhancing business processes through data-driven strategies and AI integration.
+I’m a data analyst with over 3 years of experience in data analytics, reporting, and process optimization. Skilled in SQL, Access, Power Query, Power BI, Excel, and Java, I focus on transforming raw data into meaningful insights to drive informed business decisions. I have a strong foundation in data cleaning, report creation, and project management, and I’m passionate about enhancing business processes through data-driven strategies and AI integration.
 
 🔧 Tools & Technologies:
 
